@@ -17,11 +17,12 @@
 .listItem .square {
   background-color: #ccc;
   margin-right: 15px;
-  height: 150px;
-  width: 150px;
+  max-width: 150px;
+  max-width: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 25px 25px;
 }
 
 .listItem .square .image {
